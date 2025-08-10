@@ -4,8 +4,10 @@
 Find a cool beginner-friendly library (JS, Python, etc.) and use it to do something — draw a graph, animate text, or process text.
 
 
-The python libraries used are qrcode and pillow for generating the OR code based on UPI ID .This supports payment apps like Google pay, Phone Pay and Paytm
+The python libraries used are qrcode and pillow for generating the OR code based on UPI ID .This supports payment apps like Google pay, Phone Pay and Paytm.
+
 -Creates QR codes using the `qrcode` library
+
 -Displays QR codes using the `Pillow` image viewer
 
 -NOTE - Since this contains sensitive data like UPI ID, I did not depoly this project and also the demo video will not be available for an actual UPI id
