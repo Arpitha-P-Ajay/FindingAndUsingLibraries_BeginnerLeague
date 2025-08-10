@@ -14,6 +14,7 @@ The python libraries used are qrcode and pillow for generating the OR code based
 For demonstration purpose i am using a fake upi id (but an  actual payment can be done for a real upi_id)
 
 -To try it out in your system
+
 Requirements:
 Make sure you have the following Python libraries installed:
 
